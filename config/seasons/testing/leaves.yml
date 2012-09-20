@@ -1,9 +1,13 @@
---- 
-Administrator: 
-  authentication: 
-    type: op
+---
+Administrator:
+  authentication:
+    type: nick
+    nick: jsvana
   class: Administrator
-Scorekeeper: 
+Alfred:
+  class: Alfred
+  respond_to_private_messages: true
+Scorekeeper:
   class: Scorekeeper
-Insulter: 
+Insulter:
   class: Insulter

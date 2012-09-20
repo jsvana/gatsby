@@ -1,0 +1,3 @@
+group :alfred do
+  gem 'json'
+end

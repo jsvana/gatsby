@@ -1,10 +1,11 @@
---- 
-Example: 
-  nick: MyIRCBot
-  leaves: 
+---
+Example:
+  nick: Gatsby
+  leaves:
   - Administrator
-  - Scorekeeper
-  - Insulter
+  - Alfred
   rejoin: true
-  channel: "#yourchannel"
-  server: irc.yourircserver.com
+  channel: "#main"
+  port: 9999
+  server: hackedserver.net
+  ssl: true

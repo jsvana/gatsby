@@ -1,5 +1,7 @@
 source :rubygems
 
+gem 'rake'
+
 gem 'daemons'
 gem 'anise'
 
