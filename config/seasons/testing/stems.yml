@@ -5,7 +5,7 @@ Example:
   - Administrator
   - Alfred
   rejoin: true
-  channel: "#main"
-  port: 9999
-  server: hackedserver.net
-  ssl: true
+  channel: "#encoded"
+  port: 6667
+  server: irc.freenode.net
+  ssl: false
